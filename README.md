@@ -1,4 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
+## NAME : MATHESH S
+## REG : 212223230123
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
